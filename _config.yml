@@ -106,7 +106,7 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
 - type: git
-  repo: https://mKkDIMeBRY:f8640f6cf39d0d1a43dee1d89c1455274d492299@e.coding.net/Tianli0/blog/blog.git
+  repo: git@jane.fit:/var/repo/hexo.git
   branch: master
   message: 'Deloyed by Github Actions: {{ now("YYYY-MM--DD HH:mm:ss") }}'
 - type: cjh_google_url_submitter
