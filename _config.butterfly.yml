@@ -112,7 +112,9 @@ avatar:
 
 # The banner image of home page
 # 主页的背景图片
-index_img: https://img.api.tianli0.top
+#index_img: https://img.api.tianli0.top
+#index_img: https://api.mtyqx.cn/api/random.php
+index_img: /img/index.jpg
 
 # If the banner of page not setting, it will show the top_img
 default_top_img: https://api.moechu.cn/?s=App.Bing.Getone
